@@ -40,10 +40,10 @@
 ### 🚀 Projects Highlights
 | Project Name                | Description                         | Link                                    |
 |-----------------------------|----------------------------------|-----------------------------------------|
-| 🌿 Hotel Booking Platform  | Full-stack platform for gardeners | [Live Demo]((https://hotel-management-5b87e.web.app)) |
-| 🏨 Hotel Booking Platform  | Booking & review system with JWT  | [GitHub Repo]((https://github.com/harun241/hotel-booking)) |
-| 👨‍⚕️ Gardening comunity      | Search, filter, book appointments | [live demo](((https://gardening-community-e9b5a.web.app))) |
-| 👨‍⚕️ Gardening comunity      | Search, filter, book appointments | [github-repo](((https://github.com/harun241/garden-client.git))) |
+| 🌿 Hotel Booking Platform  | Full-stack platform for gardeners | [Live Demo](https://hotel-management-5b87e.web.app)|
+| 🏨 Hotel Booking Platform  | Booking & review system with JWT  | [GitHub Repo](https://github.com/harun241/hotel-booking) |
+| 👨‍⚕️ Gardening comunity      | Search, filter, book appointments | [live demo](https://gardening-community-e9b5a.web.app) |
+| 👨‍⚕️ Gardening comunity      | Search, filter, book appointments | [github-repo](https://github.com/harun241/garden-client.git) |
 
 ---
 
