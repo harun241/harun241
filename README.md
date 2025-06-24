@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/images/WhatsApp%20Image..._7b2d6674.jpg" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/images/(https://i.ibb.co/w2M6QVb/Whats-App-Image-2025-06-25-at-01-48-20-7b2d6674.jpg)" alt="Banner" width="100%" />
 
 <h1 align="center">Hey there! 👋 I'm Harun</h1>
 <h3 align="center">MERN Stack  Developer | Tech Enthusiast</h3>
