@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Harun</h1>
-<h3 align="center">Full Stack MERN Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">MERN Stack  Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-harun-or-rashid-409aaa363" target="_blank">
@@ -19,7 +19,8 @@
 - 🎓 Final-year EEE student turned Full Stack Developer  
 - 🚀 Passionate about crafting clean, scalable web applications  
 - 🌱 Continuously exploring Next.js, Firebase, and Machine Learning  
-- 💡 Lover of algorithms, data structures & efficient code  
+- 💡 Lover of algorithms, data structures & efficient code
+- learning on.....
 
 ---
 
@@ -39,9 +40,10 @@
 ### 🚀 Projects Highlights
 | Project Name                | Description                         | Link                                    |
 |-----------------------------|----------------------------------|-----------------------------------------|
-| 🌿 Gardening Community Hub   | Full-stack platform for gardeners | [Live Demo](https://gardeninghub.example.com) |
+| 🌿 Hotel Booking Platform  | Full-stack platform for gardeners | [Live Demo]((https://hotel-management-5b87e.web.app)) |
 | 🏨 Hotel Booking Platform    | Booking & review system with JWT  | [GitHub Repo](https://github.com/harun241/hotel-booking) |
-| 👨‍⚕️ Doctor Directory App     | Search, filter, book appointments | [GitHub Repo](https://github.com/harun241/doctor-directory) |
+| 👨‍⚕️ Gardening comunity    | Search, filter, book appointments | [live demo]((https://gardening-community-e9b5a.web.app)) |
+     Gardening comunity    | Search, filter, book appointments | [github-repo](([(https://github.com/harun241/garden-client.git))) |
 
 ---
 
