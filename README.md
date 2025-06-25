@@ -52,7 +52,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harun241&show_icons=true&theme=radical" alt="Harun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harun241&show_icons=true&theme=radical&cache_seconds=60" />
+
 </p>
 
 ---
