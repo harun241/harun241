@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final-year EEE student turned Full Stack Developer  
+- 🎓 EEE-Final-year  student turned Full Stack Developer  
 - 🚀 Passionate about crafting clean, scalable web applications  
 - 🌱 Continuously exploring Next.js, Firebase, and Machine Learning  
 - 💡 Lover of algorithms, data structures & efficient code
