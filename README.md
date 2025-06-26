@@ -45,7 +45,7 @@
 | 🌿 Gardening Community    | Full-stack gardening resource hub   | [Live](https://gardening-community-e9b5a.web.app) |
 | 🌿 Gardening Community    | Client-side GitHub Repo             | [Repo](https://github.com/harun241/garden-client.git) |
 | 🏨 Hotel Booking Platform | Booking system with reviews & JWT  | [Live](https://hotel-management-5b87e.web.app) |
-| 🏨 Hotel Booking Platform | Full project repo                   | [Repo](https://github.com/harun241/hotel-booking) |
+| 🏨 Hotel Booking Platform | Full project repo                   | [Repo](https://github.com/harun241/hotel-management.git) |
 
 ---
 
