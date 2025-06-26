@@ -50,27 +50,22 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harun241&show_icons=true&theme=radical" />
-</p>
 
----
 
-### 👤 Featured Developer Profile: Md Rijoan Maruf
+
 
 ```yaml
-name: Md Rijoan Maruf
-located_in: Dhaka, Bangladesh
+name: Md Harun Or Rashid
+located_in: Rangpur, Bangladesh
 current_work: Full-Stack Developer
 education:
-  - Computer Science & Engineering at AIUB
+  - Electrical & Electronic Enginnering at BRUR
 fields_of_interests:
-  - Web Development
   - Full Stack Development
   - MERN Stack Development
   - Front-End Development
   - Back-End Development
-  - Open Source
+
 currently_learning:
   - Next.js 15
 2025_goals:
@@ -89,7 +84,7 @@ Node.js, Express.js, MongoDB
 Git, VS Code, Firebase, Vercel, Netlify
 
 📱 Languages
-JavaScript, TypeScript, C++
+JavaScript, TypeScript, C++,python
 
 📈 GitHub Analytics
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=harun241&theme=darkhub" /> </p>
