@@ -89,9 +89,7 @@ JavaScript, TypeScript, C++,python
 📈 GitHub Analytics
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=harun241&theme=darkhub" /> </p>
 💬 Live Metrics
-ts
-Copy
-Edit
+
 interface Developer {
   name: "Md Harun Or Rashid";
   location: "Rangpur, Bangladesh";
