@@ -57,7 +57,6 @@
 ```yaml
 name: Md Harun Or Rashid
 located_in: Rangpur, Bangladesh
-current_work: Full-Stack Developer
 education:
   - Electrical & Electronic Enginnering at BRUR
 fields_of_interests:
@@ -84,7 +83,7 @@ Node.js, Express.js, MongoDB
 Git, VS Code, Firebase, Vercel, Netlify
 
 📱 Languages
-JavaScript, TypeScript, C++,python
+JavaScript, TypeScript, C++, python
 
 📈 GitHub Analytics
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=harun241&theme=darkhub" /> </p>
@@ -102,15 +101,7 @@ interface Developer {
   };
   currentFocus: string[] = ["NextJS"];
 }
-⏱️ This Week’s Coding Time (Sample Stats)
-matlab
-Copy
-Edit
-JavaScript   ████████████░░░░░░░░░   48.2% 
-React        ████████░░░░░░░░░░░░░   32.1%
-TypeScript   ████░░░░░░░░░░░░░░░░░   16.5%
-CSS          ██░░░░░░░░░░░░░░░░░░░    8.7%
-HTML         █░░░░░░░░░░░░░░░░░░░░    4.3%
+
 🌐 Let’s Connect!
 <p align="center"> <a href="https://www.linkedin.com/in/md-harun-or-rashid-409aaa363" target="_blank">LinkedIn</a> | <a href="mailto:omdharun6@gmail.com">Email</a> | <a href="https://github.com/harun241" target="_blank">GitHub</a> </p>
 "Code is like humor. When you have to explain it, it’s bad." — Cory House
