@@ -23,7 +23,6 @@
 - ⚡ Passionate about building clean, scalable & user-friendly web apps  
 - 🌱 Currently exploring Next.js 15, Firebase
 
-
 ---
 
 ### 🛠️ Tech Stack
@@ -63,7 +62,6 @@ education:
 fields_of_interest:
   - Mern Stack Development
 
-
 currently_learning:
   - Next.js 15
 
@@ -72,8 +70,3 @@ goals_2025:
   - Build Amazing Full-Stack Applications
   - Learn Cloud Technologies
   - Share Knowledge with the Community
-
-### 📊 GitHub Contribution Stats
-
-![Harun's GitHub stats](https://github-readme-stats.vercel.app/api?username=harun241&show_icons=true&count_private=true&theme=dark)
-
