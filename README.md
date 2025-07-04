@@ -21,8 +21,8 @@
 - 🎓 Electrical & Electronic Engineering Student at Begum Rokeya University, Rangpur  
 - 🔁 Transitioned to Full Stack Web Development  
 - ⚡ Passionate about building clean, scalable & user-friendly web apps  
-- 🌱 Currently exploring Next.js 15, Firebase, and Machine Learning integration  
-- 💡 Problem solver & efficiency enthusiast
+- 🌱 Currently exploring Next.js 15, Firebase
+
 
 ---
 
@@ -61,10 +61,8 @@ location: Rangpur, Bangladesh
 education:
   - Electrical & Electronic Engineering at Begum Rokeya University, Rangpur
 fields_of_interest:
-  - Full Stack Development
-  - MERN Stack Development
-  - Front-End Development
-  - Back-End Development
+  - Mern Stack Development
+
 
 currently_learning:
   - Next.js 15
