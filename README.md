@@ -70,3 +70,12 @@ goals_2025:
   - Build Amazing Full-Stack Applications
   - Learn Cloud Technologies
   - Share Knowledge with the Community
+
+
+
+## GitHub Stats
+
+![Harun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harun241&show_icons=true&theme=radical&count_private=true&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harun241&layout=compact&theme=radical&hide_border=false)
+
