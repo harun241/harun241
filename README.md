@@ -71,11 +71,7 @@ goals_2025:
   - Learn Cloud Technologies
   - Share Knowledge with the Community
 
+![Harun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harun241&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harun241&layout=compact&theme=radical)
 
-
-## GitHub Stats
-
-![Harun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harun241&show_icons=true&theme=radical&count_private=true&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harun241&layout=compact&theme=radical&hide_border=false)
 
