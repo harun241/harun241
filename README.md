@@ -47,8 +47,11 @@
 |---------------------------|-----------------------------------|------------------------------------------------|
 | 🌿 Gardening Community    | Full-stack gardening resource hub | [Live](https://gardening-community-e9b5a.web.app) |
 | 🌿 Gardening Community    | Client-side GitHub Repo             | [Repo](https://github.com/harun241/garden-client.git) |
-| 🏨 Hotel Booking Platform | Booking system with reviews & JWT  | [Live](https://hotel-management-5b87e.web.app) |
-| 🏨 Hotel Booking Platform | Full project repo                   | [Repo](https://github.com/harun241/hotel-management.git) |
+| 🌿 EduQuest-education management-platform   | Client-side GitHub Repo | [Repo](https://github.com/harun241/edumanage-client.git) |
+| 🌿 EduQuest-education management-platform   | server-side GitHub Repo | [Repo](https://github.com/harun241/edumanage-server.git) |
+live site-https://edumanage-d78f1.web.app
+| 🏨 sustainable-shoping platform | Booking system with reviews & JWT  | [Live](https://greenify-blue.vercel.app) |
+| 🏨 sustainable-shoping platform | Full project repo                   | [Repo](https://github.com/harun241/greenify.git) |
 
 ---
 
@@ -65,7 +68,7 @@ fields_of_interest:
 currently_learning:
   - Next.js 15
 
-goals_2025:
+goals_2026:
   - Contribute to Open Source Projects
   - Build Amazing Full-Stack Applications
   - Learn Cloud Technologies
